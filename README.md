@@ -9,3 +9,5 @@
 # do not support the file name and path with Chinese Chinese
 # there have been packaged software support window system and MAC system
 # use way: add a folder (inside a folder with a large number of Excel file, support inside the sub folder), to store the JSON file folder, and then convert
+
+![image](https://github.com/crh5354/xcj/blob/master/xcj_win_and_mac/pp.png)
